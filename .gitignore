@@ -1,0 +1,12 @@
+kaggle.json
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Kaggle data and model weights stay out of the repo
+recodai-luc-scientific-image-forgery-detection*/
+*.zip
+*.pth
+*.pt
+checkpoints/
+analysis/figures/
