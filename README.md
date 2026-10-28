@@ -1,12 +1,12 @@
 # Scientific Image Forgery Detection with Mask R-CNN
 
-A Mask R-CNN pipeline that locates copy-move forgeries in scientific images, trained on the [Recod.ai/LUC Scientific Image Forgery Detection](https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection) data from Kaggle. Built in November and December 2025 as part of a four-person team project at SUNY Brockport. The team's presentation placed 2nd at the SUNY Brockport AI Project Contest on December 12, 2025.
+A Mask R-CNN pipeline that locates copy-move forgeries in scientific images, trained on the [Recod.ai/LUC Scientific Image Forgery Detection](https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection) data from Kaggle. Built in November and December 2025 as part of a four-person university team project. The team's presentation placed 2nd at a university AI project contest on December 12, 2025.
 
 **Research report:** [Research Report 02 (PDF)](https://www.davidlonski.com/research/mask-r-cnn-kaggle/report.pdf), which covers the runs and a re-analysis of the training data. Project page: [davidlonski.com/research/mask-r-cnn-kaggle](https://www.davidlonski.com/research/mask-r-cnn-kaggle).
 
 ## Team
 
-Mason Dear, Caleb Mesiti, Eric Ocke and David Lonski. David built the Mask R-CNN training pipeline, ran it and diagnosed the results. The team's second stage, a vision-transformer model built on DINOv2, and a teammate's separate classifier were the teammates' work. The team registered for the Kaggle competition but did not submit; the deliverable was the contest presentation.
+A four-person team. David Lonski built the Mask R-CNN training pipeline, ran it and diagnosed the results. The team's second stage, a vision-transformer model built on DINOv2, and a teammate's separate classifier were the teammates' work. The team registered for the Kaggle competition but did not submit; the deliverable was the contest presentation.
 
 ## What the runs found
 
@@ -83,4 +83,4 @@ These are left as they were, so the notebooks match the report:
 
 ## Author
 
-David Lonski, with Mason Dear, Caleb Mesiti and Eric Ocke.
+David Lonski, with three teammates.
